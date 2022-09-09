@@ -1,0 +1,16 @@
+[{
+        "username": "bear-test",
+        "id": 1,
+        "status": 2
+    },
+    {
+        "username": "schmeb-test",
+        "id": 2,
+        "status": 1
+    },
+    {
+        "username": "jedidiah-test",
+        "id": 3,
+        "status": 0
+    }
+]

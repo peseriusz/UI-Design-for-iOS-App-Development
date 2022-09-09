@@ -1,0 +1,18 @@
+[
+    {
+        "id": "FAF80C6A-F1C3-44D9-9539-D6113777520C",
+        "text": "I'm note 0",
+        "updatedAtTime": 1000,
+        "priority": 2,
+        "image": "note1",
+        "dueDate": 1598923198
+   },
+    {
+        "id": "FAF80C6A-F1C3-44D9-9539-D6113777520B",
+        "text": "I'm note 1",
+        "updatedAtTime": 2000,
+        "priority": 1,
+        "image": "note2",
+        "dueDate": 620606310
+   }
+]
